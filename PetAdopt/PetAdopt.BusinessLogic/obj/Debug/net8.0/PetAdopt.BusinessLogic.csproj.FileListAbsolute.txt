@@ -1,0 +1,15 @@
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\PetAdopt.BusinessLogic.csproj.AssemblyReference.cache
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\PetAdopt.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\PetAdopt.BusinessLogic.AssemblyInfoInputs.cache
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\PetAdopt.BusinessLogic.AssemblyInfo.cs
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\PetAdopt.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\bin\Debug\net8.0\PetAdopt.BusinessLogic.deps.json
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\bin\Debug\net8.0\PetAdopt.BusinessLogic.dll
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\bin\Debug\net8.0\PetAdopt.BusinessLogic.pdb
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\bin\Debug\net8.0\PetAdopt.DataAccess.dll
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\bin\Debug\net8.0\PetAdopt.DataAccess.pdb
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\PetAdopt.DCCC5E32.Up2Date
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\PetAdopt.BusinessLogic.dll
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\refint\PetAdopt.BusinessLogic.dll
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\PetAdopt.BusinessLogic.pdb
+D:\IA PROJECT\PetAdopt\PetAdopt.BusinessLogic\obj\Debug\net8.0\ref\PetAdopt.BusinessLogic.dll
