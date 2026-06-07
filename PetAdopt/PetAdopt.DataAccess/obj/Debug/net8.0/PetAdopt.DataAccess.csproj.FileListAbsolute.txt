@@ -1,0 +1,14 @@
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\bin\Debug\net8.0\PetAdopt.DataAccess.deps.json
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\bin\Debug\net8.0\PetAdopt.DataAccess.runtimeconfig.json
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\bin\Debug\net8.0\PetAdopt.DataAccess.dll
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\bin\Debug\net8.0\PetAdopt.DataAccess.pdb
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\PetAdopt.DataAccess.csproj.AssemblyReference.cache
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\PetAdopt.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\PetAdopt.DataAccess.AssemblyInfoInputs.cache
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\PetAdopt.DataAccess.AssemblyInfo.cs
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\PetAdopt.DataAccess.csproj.CoreCompileInputs.cache
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\PetAdopt.DataAccess.dll
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\refint\PetAdopt.DataAccess.dll
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\PetAdopt.DataAccess.pdb
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\PetAdopt.DataAccess.genruntimeconfig.cache
+D:\IA PROJECT\PetAdopt\PetAdopt.DataAccess\obj\Debug\net8.0\ref\PetAdopt.DataAccess.dll
